@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/company-marquee.svg" alt="Animated company target logos" width="1000" />
+  <img src="./assets/company-targets-v2.svg" alt="Animated company target logos" width="1000" />
 </p>
 
 ## 🧠 What I'm Building
