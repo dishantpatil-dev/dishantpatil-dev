@@ -5,11 +5,27 @@
 </p>
 
 <p align="center">
-  <img src="./assets/skill-matrix.svg" alt="Animated weekly engineering skill matrix" width="900" />
+  <img src="./assets/skill-matrix.svg" alt="Weekly engineering skill matrix" width="900" />
+</p>
+
+## 🎯 Companies I'm Targeting
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/google" height="48" alt="Google" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazon" height="48" alt="Amazon" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apple" height="48" alt="Apple" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/meta" height="48" alt="Meta" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netflix" height="48" alt="Netflix" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoft" height="48" alt="Microsoft" />
 </p>
 
 <p align="center">
-  <img src="./assets/company-marquee.svg" alt="Animated company logo targets" width="900" />
+  <sub>FAANG + Microsoft • Long-term SDE targets</sub>
 </p>
 
 ## 🧠 What I'm Building
@@ -32,11 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantpatil-dev&layout=compact&hide_border=true&theme=transparent" height="165" />
 </p>
 
-## 🔄 Weekly Progress System
+## 🔄 Weekly Progress
 
-Every week, the skill matrix is updated from the latest self-assessment. The goal is not a vanity score — it's a visible record of **consistent engineering growth**.
+Every week, the skill matrix is updated from the latest self-assessment. The goal is to track **real engineering growth**, not just collect badges.
 
-**Next update:** DSA patterns • C++ fluency • problem-solving speed • CS fundamentals
+**Tracked areas:** C++ • DSA • Problem Solving • OOP • CS Fundamentals • DBMS/SQL
 
 <p align="center">
   <a href="https://github.com/dishantpatil-dev">
