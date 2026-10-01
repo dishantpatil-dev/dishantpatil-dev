@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="70" viewBox="0 0 1100 70" role="img">
+<title>Animated engineering target indicator</title>
+<defs>
+ <linearGradient id="g" x1="0" x2="1">
+  <stop offset="0" stop-color="#7c3aed"/>
+  <stop offset=".5" stop-color="#06b6d4"/>
+  <stop offset="1" stop-color="#22c55e"/>
+ </linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect x="35" y="34" width="1030" height="2" rx="1" fill="#1e293b"/>
+<rect x="35" y="32" width="180" height="6" rx="3" fill="url(#g)" opacity=".25" filter="url(#blur)">
+ <animate attributeName="x" values="35;885;35" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<rect x="35" y="33" width="180" height="4" rx="2" fill="url(#g)">
+ <animate attributeName="x" values="35;885;35" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<circle cy="35" r="3" fill="#06b6d4">
+ <animate attributeName="cx" values="35;1065;35" dur="3.2s" repeatCount="indefinite"/>
+</circle>
+</svg>
