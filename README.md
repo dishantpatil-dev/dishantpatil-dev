@@ -8,24 +8,8 @@
   <img src="./assets/skill-matrix.svg" alt="Weekly engineering skill matrix" width="900" />
 </p>
 
-## 🎯 Companies I'm Targeting
-
 <p align="center">
-  <img src="https://cdn.simpleicons.org/google" height="48" alt="Google" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazon" height="48" alt="Amazon" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apple" height="48" alt="Apple" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/meta" height="48" alt="Meta" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/netflix" height="48" alt="Netflix" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoft" height="48" alt="Microsoft" />
-</p>
-
-<p align="center">
-  <sub>FAANG + Microsoft • Long-term SDE targets</sub>
+  <img src="./assets/company-marquee.svg" alt="Animated company target logos" width="1000" />
 </p>
 
 ## 🧠 What I'm Building
