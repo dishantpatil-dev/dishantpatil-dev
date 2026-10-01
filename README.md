@@ -11,7 +11,7 @@
 ## 🎯 Companies I'm Targeting
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_%22G%22_logo.svg" height="52" alt="Google" />
+  <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" height="52" alt="Google" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_icon.svg" height="52" alt="Microsoft" />
   &nbsp;&nbsp;&nbsp;&nbsp;
