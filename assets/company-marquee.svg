@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+<rect width="1000" height="150" rx="25" fill="#080b14"/>
+<text x="500" y="35" text-anchor="middle" fill="#94a3b8" font-family="Inter,Arial" font-size="13" letter-spacing="3">TARGET COMPANIES</text>
+<g font-family="Inter,Arial" font-weight="800" font-size="25" fill="#fff">
+<text x="70" y="92">GOOGLE</text><text x="240" y="92">AMAZON</text><text x="410" y="92">APPLE</text><text x="550" y="92">META</text><text x="690" y="92">NETFLIX</text><text x="860" y="92">MS</text>
+</g>
+<circle cx="45" cy="86" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<rect x="55" y="115" width="890" height="2" fill="#1e293b"/>
+<rect x="55" y="115" width="120" height="2" fill="#06b6d4"><animate attributeName="x" values="55;825;55" dur="3.5s" repeatCount="indefinite"/></rect>
+</svg>
