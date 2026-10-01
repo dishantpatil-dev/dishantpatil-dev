@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
-<rect width="1000" height="150" rx="25" fill="#080b14"/>
-<text x="500" y="35" text-anchor="middle" fill="#94a3b8" font-family="Inter,Arial" font-size="13" letter-spacing="3">TARGET COMPANIES</text>
-<g font-family="Inter,Arial" font-weight="800" font-size="25" fill="#fff">
-<text x="70" y="92">GOOGLE</text><text x="240" y="92">AMAZON</text><text x="410" y="92">APPLE</text><text x="550" y="92">META</text><text x="690" y="92">NETFLIX</text><text x="860" y="92">MS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230">
+<rect width="1100" height="230" rx="28" fill="#080b14"/>
+<text x="550" y="38" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-size="13" letter-spacing="4">ENGINEERING TARGETS</text>
+<g font-family="Arial" font-weight="700" font-size="16" fill="#e2e8f0" text-anchor="middle">
+<g transform="translate(90 110)"><circle r="46" fill="#111827" stroke="#334155"/><path d="M-20-18 L0-38 L20-18 L8-18 L0-28 L-8-18Z M-20-8 L-8-8 L0 2 L8-8 L20-8 L8 4 L0 14 L-8 4Z" fill="#4285F4"/><text y="75">GOOGLE</text></g>
+<g transform="translate(270 110)"><circle r="46" fill="#111827" stroke="#334155"/><path d="M-27 12 Q0 40 28 12" fill="none" stroke="#ff9900" stroke-width="8" stroke-linecap="round"/><text y="75">AMAZON</text></g>
+<g transform="translate(450 110)"><circle r="46" fill="#111827" stroke="#334155"/><path d="M8-30 Q-25-22 -24 5 Q-22 30 4 31 Q18 30 25 17 Q7 20 -1 10 Q-9-2 0-12 Q8-21 20-20 Q16-28 8-30Z" fill="#f5f5f5"/><text y="75">APPLE</text></g>
+<g transform="translate(630 110)"><circle r="46" fill="#111827" stroke="#334155"/><path d="M-18 24 L-5-24 L5-24 L18 24 L7 24 L4 11 L-4 11 L-7 24Z" fill="#0866ff"/><text y="75">META</text></g>
+<g transform="translate(810 110)"><circle r="46" fill="#111827" stroke="#334155"/><path d="M-17-25 L-17 25 L-5 25 L-5-2 L10 25 L20 25 L20-25 L8-25 L8 2 L-7-25Z" fill="#e50914"/><text y="75">NETFLIX</text></g>
+<g transform="translate(990 110)"><circle r="46" fill="#111827" stroke="#334155"/><path d="M-22-20 H22 V-8 H7 V22 H-7 V-8 H-22Z" fill="#5e5ce6"/><text y="75">MICROSOFT</text></g>
 </g>
-<circle cx="45" cy="86" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
-<rect x="55" y="115" width="890" height="2" fill="#1e293b"/>
-<rect x="55" y="115" width="120" height="2" fill="#06b6d4"><animate attributeName="x" values="55;825;55" dur="3.5s" repeatCount="indefinite"/></rect>
+<rect x="40" y="195" width="1020" height="2" fill="#1e293b"/><rect x="40" y="195" width="110" height="2" fill="#06b6d4"><animate attributeName="x" values="40;950;40" dur="4s" repeatCount="indefinite"/></rect>
 </svg>
