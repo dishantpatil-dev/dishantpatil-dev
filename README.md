@@ -49,6 +49,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dishantpatil-dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=dishantpatil-dev&theme=transparent&hide_border=true&background=00000000&card_width=495&card_height=195" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantpatil-dev&layout=compact&hide_border=true&theme=transparent" height="165" />
 </p>
 
