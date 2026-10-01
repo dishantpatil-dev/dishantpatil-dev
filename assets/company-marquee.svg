@@ -1,65 +1,71 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img">
-<title>Animated engineering target companies</title>
+<title>Animated Google Microsoft Amazon Apple Meta Netflix targets</title>
 <defs>
- <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#06b6d4"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+ <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#06b6d4"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect x="10" y="10" width="1180" height="250" rx="30" fill="#080b14" stroke="#1e293b"/>
 <text x="600" y="42" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">ENGINEERING TARGETS</text>
 
-<!-- Google -->
+<!-- GOOGLE -->
 <g transform="translate(120 125)">
  <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#4285F4;#334155" dur="3.6s" begin="0s" repeatCount="indefinite"/></circle>
- <text x="0" y="17" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#4285F4">G</text>
+ <!-- Google G built from the four brand colors -->
+ <path d="M31-2a31 31 0 1 1-9-22" fill="none" stroke="#4285F4" stroke-width="10" stroke-linecap="butt"/>
+ <path d="M22-24a31 31 0 0 1 9 22" fill="none" stroke="#34A853" stroke-width="10"/>
+ <path d="M22-24a31 31 0 0 0-22-7" fill="none" stroke="#EA4335" stroke-width="10"/>
+ <path d="M0-31a31 31 0 0 0-29 40" fill="none" stroke="#FBBC05" stroke-width="10"/>
+ <path d="M5 0h28" stroke="#4285F4" stroke-width="10"/>
  <animateTransform attributeName="transform" type="translate" values="120 125;120 116;120 125" dur="3.6s" begin="0s" repeatCount="indefinite"/>
 </g>
 <text x="120" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">GOOGLE</text>
 
-<!-- Amazon -->
+<!-- MICROSOFT -->
 <g transform="translate(312 125)">
- <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#ff9900;#334155" dur="3.6s" begin=".6s" repeatCount="indefinite"/></circle>
- <text x="0" y="8" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#ff9900">amazon</text>
- <path d="M-27 18 Q0 38 28 17" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
- <animateTransform attributeName="transform" type="translate" values="312 125;312 116;312 125" dur="3.6s" begin=".6s" repeatCount="indefinite"/>
-</g>
-<text x="312" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">AMAZON</text>
-
-<!-- Apple -->
-<g transform="translate(504 125)">
- <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#f5f5f5;#334155" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
- <path d="M12-30c-3-8 5-14 12-16-1 8-5 14-12 16zM5-23c-12-7-24 2-24 17 0 16 10 31 20 31 6 0 9-4 15-4 6 0 8 4 14 4 10 0 17-13 20-23-14-6-14-27 0-33-6-8-16-9-21-9-6 0-13 4-17 4z" fill="#f5f5f5" transform="scale(.72)"/>
- <animateTransform attributeName="transform" type="translate" values="504 125;504 116;504 125" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
-</g>
-<text x="504" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">APPLE</text>
-
-<!-- Meta -->
-<g transform="translate(696 125)">
- <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#0866ff;#334155" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></circle>
- <path d="M-31 8c5-30 18-34 31-8 13-26 26-22 31 8 5 30-10 31-22 8L0-3l-9 19C-21 39-36 38-31 8zm9 1c4 12 8 12 13 2l9-18c-7-13-13-11-18 3zM22 9c-4 12-8 12-13 2L0-7c7-13 13-11 18 3z" fill="#0866ff"/>
- <animateTransform attributeName="transform" type="translate" values="696 125;696 116;696 125" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
-</g>
-<text x="696" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">META</text>
-
-<!-- Netflix -->
-<g transform="translate(888 125)">
- <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#e50914;#334155" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
- <path d="M-24-31h10l28 62H4L-24-31zm38 0h10v62H14V-31z" fill="#e50914"/>
- <animateTransform attributeName="transform" type="translate" values="888 125;888 116;888 125" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
-</g>
-<text x="888" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">NETFLIX</text>
-
-<!-- Microsoft -->
-<g transform="translate(1080 125)">
- <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#00a4ef;#334155" dur="3.6s" begin="3s" repeatCount="indefinite"/></circle>
+ <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#00a4ef;#334155" dur="3.6s" begin=".6s" repeatCount="indefinite"/></circle>
  <g fill="#00a4ef">
   <path d="M-25-25h22v22h-22z"/><path d="M3-25h22v22H3z"/><path d="M-25 3h22v22h-22z"/><path d="M3 3h22v22H3z"/>
  </g>
+ <animateTransform attributeName="transform" type="translate" values="312 125;312 116;312 125" dur="3.6s" begin=".6s" repeatCount="indefinite"/>
+</g>
+<text x="312" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">MICROSOFT</text>
+
+<!-- AMAZON -->
+<g transform="translate(504 125)">
+ <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#ff9900;#334155" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+ <text x="0" y="7" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f5f5f5" letter-spacing="-1.5">amazon</text>
+ <path d="M-28 17 Q0 36 29 15" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+ <path d="M24 13l6 2-4 5" fill="none" stroke="#ff9900" stroke-width="3" stroke-linecap="round"/>
+ <animateTransform attributeName="transform" type="translate" values="504 125;504 116;504 125" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+</g>
+<text x="504" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">AMAZON</text>
+
+<!-- APPLE -->
+<g transform="translate(696 125)">
+ <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#f5f5f5;#334155" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+ <path d="M8-20c-5-8 2-15 9-17-1 8-5 14-9 17zM4-15c-10-7-21 1-21 14 0 14 9 29 18 29 6 0 9-4 14-4s8 4 14 4c9 0 16-12 19-21-12-5-14-22-1-30-5-6-12-7-17-7-6 0-11 4-16 4z" fill="#f5f5f5"/>
+ <animateTransform attributeName="transform" type="translate" values="696 125;696 116;696 125" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
+</g>
+<text x="696" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">APPLE</text>
+
+<!-- META -->
+<g transform="translate(888 125)">
+ <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#0866ff;#334155" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+ <path d="M-31 8c5-30 18-34 31-8 13-26 26-22 31 8 5 30-10 31-22 8L0-3l-9 19C-21 39-36 38-31 8zm9 1c4 12 8 12 13 2l9-18c-7-13-13-11-18 3zM22 9c-4 12-8 12-13 2L0-7c7-13 13-11 18 3z" fill="#0866ff"/>
+ <animateTransform attributeName="transform" type="translate" values="888 125;888 116;888 125" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
+</g>
+<text x="888" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">META</text>
+
+<!-- NETFLIX -->
+<g transform="translate(1080 125)">
+ <circle r="48" fill="#111827" stroke="#334155"><animate attributeName="stroke" values="#334155;#e50914;#334155" dur="3.6s" begin="3s" repeatCount="indefinite"/></circle>
+ <path d="M-25-31h10v62h-10zM-15-31h10l30 62H15zM15-31h10v62H15z" fill="#e50914"/>
  <animateTransform attributeName="transform" type="translate" values="1080 125;1080 116;1080 125" dur="3.6s" begin="3s" repeatCount="indefinite"/>
 </g>
-<text x="1080" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">MICROSOFT</text>
+<text x="1080" y="202" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16" font-weight="700">NETFLIX</text>
 
 <rect x="55" y="230" width="1090" height="2" rx="1" fill="#1e293b"/>
-<rect x="55" y="230" width="130" height="2" fill="url(#g)" filter="url(#glow)">
+<rect x="55" y="230" width="130" height="2" fill="url(#scan)" filter="url(#glow)">
  <animate attributeName="x" values="55;1015;55" dur="4s" repeatCount="indefinite"/>
 </rect>
 </svg>
