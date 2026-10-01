@@ -9,18 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/company-marquee.svg" alt="Animated target company strip" width="900" />
+  <img src="./assets/company-marquee.svg" alt="Animated company logo targets" width="900" />
 </p>
-
-## ⚡ Current Focus
-
-```text
-DSA & Algorithms       ████████████████████  Core priority
-C++                     ████████████████████  Interview language
-Problem Solving         ████████████████████  Pattern recognition
-CS Fundamentals         ████████████████████  Building depth
-Software Engineering    ████████████████████  Building systems
-```
 
 ## 🧠 What I'm Building
 
