@@ -8,8 +8,28 @@
   <img src="./assets/skill-matrix.svg" alt="Weekly engineering skill matrix" width="900" />
 </p>
 
+## 🎯 Companies I'm Targeting
+
 <p align="center">
-  <img src="./assets/company-targets-v2.svg" alt="Animated company target logos" width="1000" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_%22G%22_logo.svg" height="52" alt="Google" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_icon.svg" height="52" alt="Microsoft" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_2024.svg" width="105" alt="Amazon" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_white.svg" height="52" alt="Apple" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_logo.svg" width="82" alt="Meta" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_2016_N_logo.svg" height="52" alt="Netflix" />
+</p>
+
+<p align="center">
+  <sub>Google • Microsoft • Amazon • Apple • Meta • Netflix</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/target-line.svg" alt="Animated target indicator" width="900" />
 </p>
 
 ## 🧠 What I'm Building
