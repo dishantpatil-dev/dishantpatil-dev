@@ -51,10 +51,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,php,mysql,git,github,vscode,opencv,flask" />
 </p>
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dishantpatil-dev&theme=transparent&hide_border=true&background=00000000&card_width=900&card_height=195&timezone=Asia%2FKolkata" width="900" alt="Live GitHub contribution and streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantpatil-dev&theme=transparent&hide_border=true&background=00000000&ring=E9D5FF&fire=E9D5FF&currStreakLabel=E9D5FF&sideLabels=F5EFFF&dates=E9D5FF" width="900" alt="GitHub contribution streak statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantpatil-dev&bg_color=4a2572&color=F5EFFF&line=E9D5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="900" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
