@@ -1,6 +1,8 @@
-<table width="100%" bgcolor="#4a2572">
+<table width="100%" cellpadding="28" cellspacing="0" bgcolor="#4a2572">
 <tr>
-<td>
+<td bgcolor="#4a2572">
+
+<font color="#F5EFFF">
 
 # 👋 Hi, I'm Dishant Patil
 
@@ -73,6 +75,7 @@ Every week, the skill matrix is updated from the latest self-assessment. The goa
 
 <p align="center"><i>Building every week. Solving every day. 🚀</i></p>
 
+</font>
 
 </td>
 </tr>
