@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/profile-purple-bg.svg" alt="Purple developer profile background" width="100%" />
-</p>
+<table width="100%" bgcolor="#4a2572">
+<tr>
+<td>
 
 # 👋 Hi, I'm Dishant Patil
 
@@ -72,3 +72,8 @@ Every week, the skill matrix is updated from the latest self-assessment. The goa
 </p>
 
 <p align="center"><i>Building every week. Solving every day. 🚀</i></p>
+
+
+</td>
+</tr>
+</table>
