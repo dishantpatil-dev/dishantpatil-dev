@@ -54,7 +54,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dishantpatil-dev&theme=transparent&hide_border=true&background=00000000&card_width=900&card_height=195&timezone=Asia%2FKolkata" width="900" alt="Live GitHub contribution and streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=dishantpatil-dev&theme=transparent&hide_border=true&background=00000000&card_width=900&card_height=195&timezone=Asia%2FKolkata&cache=20261002" width="900" alt="Live GitHub contribution and streak stats" />
 </p>
 
 <p align="center">
