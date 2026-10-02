@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./assets/profile-purple-bg.svg" alt="Purple developer profile background" width="100%" />
+</p>
+
 # 👋 Hi, I'm Dishant Patil
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=06B6D4&center=true&vCenter=true&width=850&lines=Software+Developer+in+Progress;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Building+Systems%2C+Not+Just+Projects;Preparing+for+High-Impact+SDE+Roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=E9D5FF&center=true&vCenter=true&width=850&lines=Software+Developer+in+Progress;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Building+Systems%2C+Not+Just+Projects;Preparing+for+High-Impact+SDE+Roles" alt="Typing animation" />
 </p>
 
 <p align="center">
